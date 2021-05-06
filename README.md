@@ -1,6 +1,6 @@
 # SICP Python epub compatible
 
-I love the rewriting of SICP with the Python language, distributed and parallel computing... But we just found it in HTML so I've decided to convert it in any format using `pandoc`
+I love the rewriting of [SICP with the Python language](https://www-inst.eecs.berkeley.edu//~cs61a/sp12/book/), distributed and parallel computing... But we just found it in HTML so I've decided to convert it in any format using `pandoc`
 
 ## Steps
 
